@@ -1,6 +1,6 @@
 # Hi, I'm Hari 👋
 
-I build AI-assisted quality engineering systems and automation tooling, and I’m actively transitioning from QA automation depth into broader product engineering.
+I build AI-assisted quality engineering systems and automation tooling, focused on advancing QA automation leadership through practical execution.
 
 ## What I build
 - **Flagship (private beta):** reliability-first automation and evaluation systems
