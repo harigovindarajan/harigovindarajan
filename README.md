@@ -20,8 +20,8 @@ Pinned repositories are curated to show:
 4. Practical tooling
 
 ## Collaboration
-- LinkedIn: (add link)
-- X: (add link)
+- LinkedIn: https://www.linkedin.com/in/harigovindarajan/
+- X: https://x.com/HariCreates
 - For project feedback: open a GitHub issue in the relevant repository
 
 ## Private beta
